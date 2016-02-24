@@ -1,0 +1,1 @@
+http://developer.nytimes.com/docs/top_stories_api/
